@@ -19,7 +19,7 @@ Aqui eu mostro o que estou aprendendo e construindo, um projeto de cada vez. ğŸš
 </td>
 <td width="35%" align="center">
 
-<img src="https://github.com/oliveiraians145.png" width="200" alt="Ian Oliveira" />
+
 
 </td>
 </tr>
