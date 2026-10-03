@@ -26,7 +26,7 @@ Aqui eu mostro o que estou aprendendo e construindo, um projeto de cada vez. �
 
 ## 📚 Estudando agora
 
-- 🐍 Python (trilha back-end)
+- 🐍 Python (back-end)
 - 🗄️ SQL e bancos de dados relacionais
 - 🔌 Consumo de APIs
 
