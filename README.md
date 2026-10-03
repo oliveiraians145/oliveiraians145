@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F6BDE,100:1a1a2e&height=180&section=header&text=Ian%20Oliveira&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Futuro%20Dev%20Full%20Stack&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F6BDE,100:1a1a2e&height=180&section=header&text=Ian%20Oliveira&fontColor=ffffff&fontSize=50&fontAlignY=50" width="100%" />
 
 </div>
-
-<table>
-<tr>
-<td width="65%" valign="top">
 
 ## 👋 Olá, Devs!!
 
@@ -15,15 +11,6 @@ Tenho **20 anos**, estudo **Engenharia de Software** e estou construindo minha b
 Aqui eu mostro o que estou aprendendo e construindo, um projeto de cada vez. 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-oliveira-4a09a640b/)
-
-</td>
-<td width="35%" align="center">
-
-
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -62,11 +49,4 @@ Aqui eu mostro o que estou aprendendo e construindo, um projeto de cada vez. �
 
 ⭐ Obrigado por passar por aqui!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F6BDE,100:1a1a2e&height=100&section=footer" width="100%" />
-
 </div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-oliveira-4a09a640b/)
-
----
-
-⭐ Thanks for stopping by!
