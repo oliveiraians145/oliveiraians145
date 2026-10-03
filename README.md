@@ -14,7 +14,7 @@ Aqui eu mostro o que estou aprendendo e construindo, um projeto de cada vez. ðŸš
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F6BDE&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Aprendendo+Python+e+Back-end;Rumo+a+Full+Stack+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F6BDE&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Aprendendo+Python+Back-end;Rumo+a+Full+Stack+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
