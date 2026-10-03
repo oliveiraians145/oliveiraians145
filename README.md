@@ -37,15 +37,6 @@ Aqui eu mostro o que estou aprendendo e construindo, um projeto de cada vez. �
 - ⚛️ React
 - 🧱 Projetos full stack completos, do banco de dados à interface
 
-## 💻 Projetos
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [rastreador-moedas](https://github.com/oliveiraians145/rastreador-moedas) | Ferramenta em Python que consulta o preço atualizado de Bitcoin, Ethereum e Solana pela API pública da CoinGecko | Python, API REST |
-
-> 🔨 Mais projetos a caminho. Meu foco é construir coisas que vão além do básico.
-
-<div align="center">
 
 ⭐ Obrigado por passar por aqui!
 
