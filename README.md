@@ -1,42 +1,70 @@
-# 👋 Hello! Welcome to my GitHub profile.
-## My name is Ian Oliveira!
+<div align="center">
 
-🎓 Software Engineering student, on my way to becoming a **Full Stack Developer**.
-🐍 Building my foundation in **Python** and back-end development.
-🚀 Learning in public: every project here is a step toward a professional career in tech.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F6BDE,100:1a1a2e&height=180&section=header&text=Ian%20Oliveira&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Futuro%20Dev%20Full%20Stack&descAlignY=62&descSize=18" width="100%" />
+
+</div>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+## 👋 Olá, Devs!!
+
+Tenho **20 anos**, estudo **Engenharia de Software** e estou construindo minha base em **Python** e desenvolvimento back-end. Sou iniciante, mas com um objetivo claro: me tornar **Full Stack Developer**.
+
+Aqui eu mostro o que estou aprendendo e construindo, um projeto de cada vez. 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-oliveira-4a09a640b/)
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://github.com/oliveiraians145.png" width="200" alt="Ian Oliveira" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F6BDE&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Aprendendo+Python+e+Back-end;Rumo+a+Full+Stack+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Tecnologias" />
 
-## 📚 Currently Learning
+## 📚 Estudando agora
 
-- 🐍 Python (back-end track)
-- 🗄️ SQL and relational databases
-- 🔌 Working with APIs
+- 🐍 Python (trilha back-end)
+- 🗄️ SQL e bancos de dados relacionais
+- 🔌 Consumo de APIs
 
-## 🎯 Next on My Roadmap
+## 🎯 Próximos passos
 
-- 🌐 HTML, CSS and JavaScript
+- 🌐 HTML, CSS e JavaScript
 - ⚙️ Node.js
-- ⚛️ A front-end framework (React)
-- 🧱 Building full stack projects, from database to interface
+- ⚛️ React
+- 🧱 Projetos full stack completos, do banco de dados à interface
 
-## 💻 Projects
+## 💻 Projetos
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Crypto Advisor](https://github.com/oliveiraians145/NOME-DO-REPOSITORIO) | Python tool that fetches live prices for Bitcoin, Ethereum and Solana using the public CoinGecko API | Python, REST API |
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [rastreador-moedas](https://github.com/oliveiraians145/rastreador-moedas) | Ferramenta em Python que consulta o preço atualizado de Bitcoin, Ethereum e Solana pela API pública da CoinGecko | Python, API REST |
 
-> 🔨 More projects coming soon. I'm focused on building things that go beyond the basics.
+> 🔨 Mais projetos a caminho. Meu foco é construir coisas que vão além do básico.
 
-## 📫 Let's Connect
+<div align="center">
 
+⭐ Obrigado por passar por aqui!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F6BDE,100:1a1a2e&height=100&section=footer" width="100%" />
+
+</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-oliveira-4a09a640b/)
 
 ---
